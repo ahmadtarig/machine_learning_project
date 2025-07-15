@@ -26,6 +26,3 @@ This project uses a mobile phone dataset to predict price categories using machi
 - matplotlib, seaborn
 
 ---
-
-## 📁 Project Structure
-
