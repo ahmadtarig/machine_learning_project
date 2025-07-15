@@ -1,20 +1,20 @@
-# 🎬 Movie Revenue Prediction – Machine Learning Project
+# 📱 Mobile Price Prediction – Machine Learning Project
 
-This project predicts movie revenue (or ratings) using scraped movie data. It includes web scraping, data cleaning, training and comparing multiple machine learning models, and evaluating their performance.
+This project uses a mobile phone dataset to predict price categories using machine learning. It includes data cleaning, model training, evaluation, and comparison between multiple algorithms.
 
 ---
 
 ## 🚀 Features
 
-- Web scraping movie metadata
-- Data cleaning and preprocessing
-- Multiple ML models:
+- Uses a labeled mobile phone dataset (CSV format)
+- Cleans and preprocesses features
+- Trains and evaluates 4 machine learning models:
   - ✅ Support Vector Machine (SVM)
   - ✅ Naive Bayes
   - ✅ Decision Tree
   - ✅ K-Nearest Neighbors (KNN)
-- Model training and comparison
-- Visualization of model performance
+- Visualizes model performance
+- Compares accuracy and R² scores for model selection
 
 ---
 
